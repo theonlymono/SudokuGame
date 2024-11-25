@@ -1,4 +1,4 @@
-For a better experience, 
+For a better experience 🎮, 
 
 1. Install Code Blocks IDE
 
