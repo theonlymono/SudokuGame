@@ -1,0 +1,17 @@
+*Press Spacebar to skip.
+
+
+			How to play Sudoku?
+
+1.Every square has to contain a single number.
+
+2.Only the numbers from 1 through to 9 can be used.
+
+3.Each 3*3 box can only contain each number from 1 to 9 once.
+
+4.Each vertical column can only contain each number from 1 to 9 once.
+
+5.Each horizontal row can only contain each number from 1 to 9 once.
+
+*Please note that mistakes are only counted when an incorrect number is entered into an empty cell.
+
